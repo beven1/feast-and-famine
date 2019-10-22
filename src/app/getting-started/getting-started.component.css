@@ -1,0 +1,11 @@
+.content-div {
+  padding-top: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 30px;
+}
+
+.inner-content-div {
+  padding-left: 40px;
+  padding-right: 100px;
+}
